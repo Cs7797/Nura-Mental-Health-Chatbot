@@ -1,1 +1,0 @@
-This is a mental health ai chatbot with basic prompt capabilities made using n8n cloud and interfaced with gemini api and frontend capabilities. Developed as a group project for Ibms SkillsBuild initiative 
